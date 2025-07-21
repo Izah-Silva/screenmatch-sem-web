@@ -99,7 +99,7 @@ Recomendado? ✔️
 
 ## 📈 Melhorias Futuras
 
-- [ ] Integração com API pública de filmes (como OMDb)
+
 - [ ] Testes unitários com JUnit
 - [ ] Interface web com Spring Boot e Thymeleaf
 - [ ] Armazenamento em banco de dados
